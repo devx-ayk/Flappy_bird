@@ -1,0 +1,12 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); */
+
+body{
+    font-family: "Press Start 2P", cursive;
+    text-align: center;    
+}
+#board { 
+    /* background-color: skyblue; */
+    background-image: url("./flappybirdbg.png");
+}
+
+
